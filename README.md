@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <h1>👋 Hi, I'm Hriday Kumar Pranit</h1>
-  <p><strong>Full Stack Developer | FastAPI Specialist | React Enthusiast | Open Source Contributor</strong></p>
+  <p><strong>Full Stack Developer | Data Structure & Algo. Enthusiast | Open Source Contributor | Exploring AI & LLMs </strong></p>
   
   <img src="https://komarev.com/ghpvc/?username=hridaykp&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile Views" />
 </div>
@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer** who loves building scalable applications from frontend to backend. With expertise in **Python**, **React**, and **Node.js**, I craft clean, efficient code and deliver end-to-end solutions. I'm particularly interested in building APIs, optimizing performance, and exploring emerging technologies.
-
-> "Code is like humor. When you have to explain it, it's bad." — Cormac Comorgan
+I'm a passionate Full-Stack Developer with 1 year of professional experience building scalable web applications from frontend to backend.
+With hands-on expertise in Python, FastAPI, React, and Node.js, I craft clean, maintainable, and efficient code to deliver end-to-end solutions.
+I enjoy designing robust APIs, optimizing performance, and implementing real-world systems that scale. I'm exploring AI integration, LLM-based applications aiming to bridge full-stack development with emerging technologies.
+I also actively contribute to open-source projects and enjoy learning through collaboration and challenging problems.
 
 ---
 
@@ -64,24 +65,6 @@ I'm a passionate **full-stack developer** who loves building scalable applicatio
 
 ---
 
-## 📊 GitHub Overview
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/hridaykp">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/hridaykp">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&theme=tokyonight&layout=compact&cache_seconds=1800" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 Repository Statistics
 
@@ -149,31 +132,7 @@ I'm a passionate **full-stack developer** who loves building scalable applicatio
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hridaykp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridaykp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hridaykp@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hridaykp)
 
 </div>
 
 ---
-
-## 📝 Let's Collaborate!
-
-I'm always interested in:
-- 💼 Freelance projects
-- 🤝 Open source contributions
-- 💬 Technical discussions
-- 👨‍🏫 Mentoring and knowledge sharing
-
-Feel free to reach out!
-
----
-
-<div align="center">
-
-**💡 Fun Fact:** I believe the best code is the code that others can understand and maintain.
-
-⭐ If you find my work helpful, please consider giving a star on my repositories!
-
-*Last updated: June 2026*
-
-</div>
