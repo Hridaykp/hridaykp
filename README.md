@@ -52,27 +52,42 @@ I'm a passionate **full-stack developer** who loves building scalable applicatio
 
 <div align="center">
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **FastApi** | Product management API with MongoDB integration, JWT authentication, and comprehensive error handling | Python, FastAPI, MongoDB | [Repo](https://github.com/Hridaykp/FastApi) |
-| **E-commerce API** | Full-featured e-commerce backend with product management, cart, and payment integration | JavaScript, Node.js, Express | [Repo](https://github.com/Hridaykp/E-commerce-API) |
-| **ToDo MERN** | Modern to-do application with real-time updates | React, Node.js, Express, MongoDB | [Repo](https://github.com/Hridaykp/ToDo__Mern) |
-| **Habit Tracker React** | Track daily habits with interactive UI and progress visualization | React, JavaScript | [Repo](https://github.com/Hridaykp/Habbit_Tracker_React) |
-| **Issue Tracker** | Project issue tracking system with real-time updates | EJS, Node.js, Express | [Repo](https://github.com/Hridaykp/Issue_Tracker) |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[FastApi](https://github.com/Hridaykp/FastApi)** | Product management API with MongoDB, JWT authentication, and error handling | Python, FastAPI, MongoDB |
+| **[E-commerce API](https://github.com/Hridaykp/E-commerce-API)** | Full-featured backend with product management and payments | JavaScript, Node.js, Express |
+| **[ToDo MERN](https://github.com/Hridaykp/ToDo__Mern)** | Modern to-do app with real-time updates | React, Node.js, Express, MongoDB |
+| **[Habit Tracker React](https://github.com/Hridaykp/Habbit_Tracker_React)** | Track daily habits with progress visualization | React, JavaScript |
+| **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Project issue tracking system | EJS, Node.js, Express |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/hridaykp">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/hridaykp">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&theme=tokyonight&layout=compact&cache_seconds=1800" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/hridaykp)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&hide_border=true)](https://github.com/hridaykp)
+## 📈 Repository Statistics
 
-</div>
+- **Total Repositories:** 28+
+- **Primary Languages:** JavaScript, Python, Java
+- **Featured Stack:** React, Node.js, FastAPI, MongoDB
 
 ---
 
@@ -80,41 +95,51 @@ I'm a passionate **full-stack developer** who loves building scalable applicatio
 
 - 🔨 Enhancing **FastApi** with advanced authentication (OAuth2, JWT refresh tokens)
 - 📚 Building scalable microservices with Python and FastAPI
-- 🚀 Exploring containerization and deployment with Docker
+- 🚀 Exploring containerization and deployment with Docker & Kubernetes
 - 💡 Contributing to open-source projects
-- 📖 Writing technical documentation and best practices
+- 📖 Writing technical documentation and best practices guides
 
 ---
 
 ## 💡 Key Skills
 
-**Backend Development**
+### Backend Development
 - RESTful API design and development
 - Database design and optimization (MongoDB, MySQL)
 - Authentication & Authorization (JWT, OAuth2)
-- Error handling and logging
-- API documentation
+- Error handling and comprehensive logging
+- API documentation and Swagger integration
 
-**Frontend Development**
+### Frontend Development
 - React components and hooks
 - State management (Redux, Context API)
 - Responsive design with modern CSS frameworks
-- Performance optimization
+- Performance optimization and lazy loading
 
-**DevOps & Tools**
+### DevOps & Tools
 - Version control (Git, GitHub)
-- API testing (Postman)
+- API testing and debugging (Postman)
 - Docker containerization
-- CI/CD basics
+- CI/CD basics and GitHub Actions
 
 ---
 
-## 📈 Recent Activity
+## 📱 Repository Highlights
 
-- ⭐ Building production-ready FastAPI applications
-- 🔒 Implementing secure authentication systems
-- 📱 Creating responsive React applications
-- 🛠️ Contributing to full-stack project development
+### Backend Projects
+- **FastApi** - Production-ready API framework
+- **E-commerce API** - Scalable backend architecture
+- **Issue Tracker** - Full-stack application
+
+### Frontend Projects
+- **React Todo List** - State management showcase
+- **Habit Tracker React** - Real-world React app
+- **Movie App** - API integration project
+
+### Full-Stack Applications
+- **Todo MERN** - Complete MERN stack
+- **Codial** - Social application
+- **E-commerce App** - Full-featured platform
 
 ---
 
@@ -133,22 +158,20 @@ I'm a passionate **full-stack developer** who loves building scalable applicatio
 
 ## 📝 Let's Collaborate!
 
-I'm always interested in collaborating on exciting projects, discussing new technologies, or contributing to open source. Feel free to reach out!
+I'm always interested in:
+- 💼 Freelance projects
+- 🤝 Open source contributions
+- 💬 Technical discussions
+- 👨‍🏫 Mentoring and knowledge sharing
 
-<div align="center">
-
-**Open for:**
-- Freelance projects
-- Open source contributions
-- Technical discussions
-- Mentoring
-
-</div>
+Feel free to reach out!
 
 ---
 
 <div align="center">
-  
+
+**💡 Fun Fact:** I believe the best code is the code that others can understand and maintain.
+
 ⭐ If you find my work helpful, please consider giving a star on my repositories!
 
 *Last updated: June 2026*
