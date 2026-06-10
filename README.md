@@ -10,10 +10,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer with 1 year of professional experience building scalable web applications from frontend to backend.
-With hands-on expertise in Python, FastAPI, React, and Node.js, I craft clean, maintainable, and efficient code to deliver end-to-end solutions.
-I enjoy designing robust APIs, optimizing performance, and implementing real-world systems that scale. I'm exploring AI integration, LLM-based applications aiming to bridge full-stack development with emerging technologies.
-I also actively contribute to open-source projects and enjoy learning through collaboration and challenging problems.
+🚀 Full-Stack Developer with 1 year of professional experience building web applications using Python, FastAPI, React, and Node.js.
+
+💻 Passionate about designing clean, maintainable software, developing robust APIs, and creating seamless user experiences.
+
+🧠 Strong foundation in Data Structures and Algorithms, with a keen interest in problem-solving, optimization, and software engineering best practices.
+
+🤖 Currently exploring AI integration, LLM-powered applications, and intelligent developer tools to bridge modern full-stack development with emerging technologies.
+
+🌱 Open-source contributor who enjoys learning, collaborating with developers, and building impactful solutions that solve real-world problems.
+
 
 ---
 
