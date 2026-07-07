@@ -61,7 +61,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[FastApi](https://github.com/Hridaykp/FastApi)** | Product management API with MongoDB, JWT authentication, and error handling | Python, FastAPI, MongoDB |
+| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Product management API with MongoDB, JWT authentication, and error handling | Python, FastAPI, MongoDB |
 | **[E-commerce API](https://github.com/Hridaykp/E-commerce-API)** | Full-featured backend with product management and payments | JavaScript, Node.js, Express |
 | **[ToDo MERN](https://github.com/Hridaykp/ToDo__Mern)** | Modern to-do app with real-time updates | React, Node.js, Express, MongoDB |
 | **[Habit Tracker React](https://github.com/Hridaykp/Habbit_Tracker_React)** | Track daily habits with progress visualization | React, JavaScript |
@@ -82,7 +82,7 @@
 
 ## 🎯 What I'm Currently Working On
 
-- 🔨 Enhancing **FastApi** with advanced authentication (OAuth2, JWT refresh tokens)
+- 🔨 Enhancing **Secure Product API** with advanced authentication (OAuth2, JWT refresh tokens)
 - 📚 Building scalable microservices with Python and FastAPI
 - 🚀 Exploring containerization and deployment with Docker & Kubernetes
 - 💡 Contributing to open-source projects
@@ -116,7 +116,7 @@
 ## 📱 Repository Highlights
 
 ### Backend Projects
-- **FastApi** - Production-ready API framework
+- **Secure Product API** - Production-ready API framework
 - **E-commerce API** - Scalable backend architecture
 - **Issue Tracker** - Full-stack application
 
