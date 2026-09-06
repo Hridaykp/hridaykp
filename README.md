@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <h1>👋 Hi, I'm Hriday Kumar Pranit</h1>
-  <p><strong>Full Stack Developer | Data Structure & Algo. Enthusiast | Open Source Contributor | Exploring AI & LLMs </strong></p>
+  <p><strong>Full Stack Developer | Data Structure & Algo. Enthusiast | Open Source Contributor | Exploring AI & LLMs</strong></p>
   
   <img src="https://komarev.com/ghpvc/?username=hridaykp&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile Views" />
 </div>
@@ -10,16 +10,7 @@
 
 ## 🚀 About Me
 
-🚀 Full-Stack Developer with 1 year of professional experience building web applications using Python, FastAPI, React, and Node.js.
-
-💻 Passionate about designing clean, maintainable software, developing robust APIs, and creating seamless user experiences.
-
-🧠 Strong foundation in Data Structures and Algorithms, with a keen interest in problem-solving, optimization, and software engineering best practices.
-
-🤖 Currently exploring AI integration, LLM-powered applications, and intelligent developer tools to bridge modern full-stack development with emerging technologies.
-
-🌱 Open-source contributor who enjoys learning, collaborating with developers, and building impactful solutions that solve real-world problems.
-
+Full‑Stack developer focused on building reliable web services and AI‑driven tools. I enjoy solving algorithmic problems, improving developer workflows, and contributing to open source.
 
 ---
 
@@ -31,25 +22,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Frontend
+### Frontend & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -61,74 +41,39 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[resuforge](https://github.com/Hridaykp/resuforge)** | Resume building / tooling project | JavaScript, Node.js |
-| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Product management API with MongoDB, JWT authentication, and error handling | Python, FastAPI, MongoDB |
-| **[Codial](https://github.com/Hridaykp/Codial)** | Social application / collaboration platform | Full-stack |
-| **[LeetCode Profile](https://leetcode.com/u/im_BUG/)** | Personal LeetCode profile and problem-solving stats | Algorithms, DSA |
-| **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Project issue tracking system | EJS, Node.js, Express |
+| **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI resume analyzer with ATS scoring and job‑aware suggestions | FastAPI · Next.js · Docker |
+| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production product API with authentication and validation | Python · FastAPI · MongoDB |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Social collaboration app for developers | React · Node.js |
+| **[LeetCode Profile](https://leetcode.com/u/im_BUG/)** | Problem‑solving progress and practice tracker | Algorithms · DSA |
+| **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Lightweight project issue management app | Node.js · EJS |
 
 </div>
 
 ---
 
+## 📈 Repository Snapshot
 
-## 📈 Repository Statistics
-
-- **Total Repositories:** 28+
-- **Primary Languages:** JavaScript, Python, Java
-- **Featured Stack:** React, Node.js, FastAPI, MongoDB
+- Public projects focused on web backends, developer tools, and AI integrations.
+- Languages: JavaScript, Python, Java
 
 ---
 
 ## 🎯 What I'm Currently Working On
 
-- 🔨 Enhancing **Secure Product API** with advanced authentication (OAuth2, JWT refresh tokens)
-- 📚 Building scalable microservices with Python and FastAPI
-- 🚀 Exploring containerization and deployment with Docker & Kubernetes
-- 💡 Contributing to open-source projects
-- 📖 Writing technical documentation and best practices guides
+- Building ResuForgeAI (productionizing AI resume analysis and ATS scoring)
+- Hardening Secure Product API (auth, validation, and docs)
+- Daily LeetCode practice and algorithm improvement
+- Contributing to open‑source projects and mentoring
+- Exploring LLM integrations and AI tooling for developer workflows
 
 ---
 
-## 💡 Key Skills
+## 📁 Repository Highlights
 
-### Backend Development
-- RESTful API design and development
-- Database design and optimization (MongoDB, MySQL)
-- Authentication & Authorization (JWT, OAuth2)
-- Error handling and comprehensive logging
-- API documentation and Swagger integration
-
-### Frontend Development
-- React components and hooks
-- State management (Redux, Context API)
-- Responsive design with modern CSS frameworks
-- Performance optimization and lazy loading
-
-### DevOps & Tools
-- Version control (Git, GitHub)
-- API testing and debugging (Postman)
-- Docker containerization
-- CI/CD basics and GitHub Actions
-
----
-
-## 📱 Repository Highlights
-
-### Backend Projects
-- **Secure Product API** - Production-ready API framework
-- **E-commerce API** - Scalable backend architecture
-- **Issue Tracker** - Full-stack application
-
-### Frontend Projects
-- **React Todo List** - State management showcase
-- **Habit Tracker React** - Real-world React app
-- **Movie App** - API integration project
-
-### Full-Stack Applications
-- **Todo MERN** - Complete MERN stack
-- **Codial** - Social application
-- **E-commerce App** - Full-featured platform
+- ResuForgeAI — AI resume analysis platform (see repo for docs and deployment)
+- Secure Product API — production-ready backend examples and patterns
+- Codial — social collaboration frontend & backend demo
+- Issue Tracker — small web app demonstrating CRUD and auth flows
 
 ---
 
@@ -140,7 +85,7 @@
   </a>
 </p>
 
-Want a visual dashboard (charts) for your LeetCode progress embedded in this README? I can add a small GitHub Pages dashboard and an Action that fetches your public LeetCode stats daily — tell me and I'll add the files and the charts. (No auth required for public profiles.)
+I track problems and practice regularly — reach out if you want to collaborate on problems or study together.
 
 ---
 
