@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Full‑Stack developer focused on building reliable web services and AI‑driven tools. I enjoy solving algorithmic problems, improving developer workflows, and contributing to open source.
+Full‑Stack developer building reliable web services and AI‑driven tools. I enjoy solving algorithmic problems, improving developer workflows, and contributing to open source.
 
 ---
 
