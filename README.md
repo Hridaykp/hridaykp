@@ -132,6 +132,18 @@
 
 ---
 
+## 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/im_BUG/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-im_BUG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+Want a visual dashboard (charts) for your LeetCode progress embedded in this README? I can add a small GitHub Pages dashboard and an Action that fetches your public LeetCode stats daily — tell me and I'll add the files and the charts. (No auth required for public profiles.)
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
