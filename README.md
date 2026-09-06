@@ -61,10 +61,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[resuforge](https://github.com/Hridaykp/resuforge)** | Resume building / tooling project | JavaScript, Node.js |
 | **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Product management API with MongoDB, JWT authentication, and error handling | Python, FastAPI, MongoDB |
-| **[E-commerce API](https://github.com/Hridaykp/E-commerce-API)** | Full-featured backend with product management and payments | JavaScript, Node.js, Express |
-| **[ToDo MERN](https://github.com/Hridaykp/ToDo__Mern)** | Modern to-do app with real-time updates | React, Node.js, Express, MongoDB |
-| **[Habit Tracker React](https://github.com/Hridaykp/Habbit_Tracker_React)** | Track daily habits with progress visualization | React, JavaScript |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Social application / collaboration platform | Full-stack |
+| **[LeetCode Profile](https://leetcode.com/u/im_BUG/)** | Personal LeetCode profile and problem-solving stats | Algorithms, DSA |
 | **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Project issue tracking system | EJS, Node.js, Express |
 
 </div>
