@@ -75,9 +75,9 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analyzer with ATS scoring, real-time feedback, and job-aware suggestions | FastAPI · Next.js · Docker · LLM | 🚀 Active |
-| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production-grade REST API with JWT authentication, comprehensive validation, and API documentation | FastAPI · PostgreSQL · MongoDB | 📦 Complete |
-| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social media platform with real-time chat, posts, comments, likes, and multiple auth strategies | Node.js · Express · EJS · SCSS · Socket.io · MongoDB | 📦 Complete |
+| **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analysis platform with ATS scoring, real-time feedback, and job-specific recommendations for targeted roles | FastAPI · Next.js · Docker · LLM · [Gemini API + Groq API] | 🚀 Active |
+| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Secure REST API featuring JWT authentication, OAuth2, RBAC, product CRUD, validation, admin operations, and automatic API documentation | FastAPI · MongoDB · JWT · OAuth2 · Pydantic · Swagger UI | 📦 Complete |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Full-stack social platform for developers featuring real-time messaging, posts, comments, likes, and flexible authentication strategies | Node.js · Express.js · MongoDB · Socket.io · EJS · SCSS | 📦 Complete |
 
 ### 💻 Full Stack Applications
 
@@ -131,15 +131,16 @@ I maintain a strong focus on **Data Structures & Algorithms**:
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hridaykp&theme=dark&background=1a1b27&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
+
 
 
 ---
