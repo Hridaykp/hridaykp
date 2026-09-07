@@ -18,11 +18,11 @@
 
 I'm a passionate **Full Stack Developer** dedicated to building scalable, production-ready applications and solving complex algorithmic challenges. My journey spans:
 
-- 🔧 **Backend Engineering** — FastAPI, Node.js, robust API design
-- 🎨 **Frontend Development** — React, Next.js, modern UI/UX patterns
-- 🤖 **AI Integration** — LLM implementations, AI-powered tools
-- 🧩 **Problem Solving** — Daily LeetCode practice, algorithmic thinking
-- 📚 **Open Source** — Contributing to and building developer tools
+- 🔧 **Backend Engineering** — FastAPI, Node.js, RESTful APIs & scalable backend systems
+- 🎨 **Frontend Development** — React, Next.js & responsive, user-focused interfaces
+- 🤖 **AI Engineering** — LLM integration, AI-powered applications & intelligent developer tools
+- 🧩 **Problem Solving** — Data structures, algorithms & consistent LeetCode practice
+
 
 Currently exploring the intersection of **AI/LLMs and developer productivity**.
 
@@ -35,8 +35,10 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -57,6 +59,11 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 </div>
 
@@ -70,7 +77,7 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 |---------|-------------|-----------|--------|
 | **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analyzer with ATS scoring, real-time feedback, and job-aware suggestions | FastAPI · Next.js · Docker · LLM | 🚀 Active |
 | **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production-grade REST API with JWT authentication, comprehensive validation, and API documentation | FastAPI · PostgreSQL · MongoDB | 📦 Complete |
-| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social media platform with real-time chat, posts, comments, likes, and multiple auth strategies | Node.js · Express · EJS · SCSS · Socket.io · MongoDB | 💬 Active |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social media platform with real-time chat, posts, comments, likes, and multiple auth strategies | Node.js · Express · EJS · SCSS · Socket.io · MongoDB | 📦 Complete |
 
 ### 💻 Full Stack Applications
 
@@ -114,26 +121,38 @@ I maintain a strong focus on **Data Structures & Algorithms**:
 
 ---
 
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/im_BUG?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/im_BUG/)
+
+</div>
+
+## 📊 GitHub Statistics
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)](https://github.com/hridaykp)
+<img src="https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/hridaykp)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 
 </div>
+
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 **Building ResuForgeAI** — Productionizing AI-powered career tools with advanced LLM features
-- 🔐 **Backend Excellence** — Hardening APIs with robust authentication, validation, and documentation
-- 🤖 **AI/LLM Integration** — Exploring advanced language model implementations and use cases
-- 📈 **Algorithmic Growth** — Daily LeetCode practice and mastery of core data structures
-- 🌍 **Open Source** — Contributing to and building tools for the developer community
-- 📚 **Knowledge Sharing** — Mentoring and collaborating with other developers
+- 🚀 **Building ResuForgeAI** — Turning AI-powered career solutions into production-ready products
+- 🏗️ **Backend Engineering** — Designing secure, scalable & well-documented APIs
+- 🧩 **Problem Solving** — Mastering data structures & algorithms through daily practice
+- 🤝 **Continuous Learning** — Sharing knowledge, mentoring & collaborating with the developer community
+- 🌍 **Open Source** — Building and contributing to tools that help developers
+- 🤖 **AI Engineering** — Building practical applications with LLMs and intelligent workflows
+
 
 ---
 
