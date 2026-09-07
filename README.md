@@ -19,7 +19,7 @@
 I'm a passionate **Full Stack Developer** dedicated to building scalable, production-ready applications and solving complex algorithmic challenges. My journey spans:
 
 - 🔧 **Backend Engineering** — FastAPI, Node.js, robust API design
-- 🎨 **Frontend Development** — React, modern UI/UX patterns
+- 🎨 **Frontend Development** — React, Next.js, modern UI/UX patterns
 - 🤖 **AI Integration** — LLM implementations, AI-powered tools
 - 🧩 **Problem Solving** — Daily LeetCode practice, algorithmic thinking
 - 📚 **Open Source** — Contributing to and building developer tools
@@ -45,11 +45,16 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 
 ### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases & Tools
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -63,37 +68,37 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analyzer with ATS scoring, feedback engine, and job matching | Python · FastAPI · Next.js · Docker | 🚀 Active |
-| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production-grade REST API with authentication, validation, and comprehensive docs | Python · FastAPI · MongoDB | 📦 Complete |
-| **[Nova Thesis](https://github.com/Hridaykp/nova-thesis)** | Framework for defending technical & AI implementations before deployment | Framework | 🔧 In Progress |
+| **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analyzer with ATS scoring, real-time feedback, and job-aware suggestions | FastAPI · Next.js · Docker · LLM | 🚀 Active |
+| **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production-grade REST API with JWT authentication, comprehensive validation, and API documentation | FastAPI · PostgreSQL · MongoDB | 📦 Complete |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social collaboration platform for code sharing, real-time discussions, and team projects | React · Next.js · Node.js · Express | 💬 Active |
 
 ### 💻 Full Stack Applications
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Codial](https://github.com/Hridaykp/Codial)** | Social collaboration platform for developers | React · Node.js · Express |
-| **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Lightweight project management and issue tracking | Node.js · EJS · MongoDB |
-| **[MERN Todo App](https://github.com/Hridaykp/ToDo__Mern)** | Full-stack todo application with real-time updates | MongoDB · Express · React · Node.js |
+| **[MERN Todo App](https://github.com/Hridaykp/ToDo__Mern)** | Full-stack todo application with real-time updates and persistent storage | MongoDB · Express · React · Node.js |
+| **[Issue Tracker](https://github.com/Hridaykp/Issue_Tracker)** | Project management and issue tracking system with user authentication | Node.js · Express · EJS · MongoDB |
+| **[E-commerce App](https://github.com/Hridaykp/e_Commerce-App)** | Full-featured e-commerce platform with product catalog and cart management | React · Node.js · Express |
 
 ### 🎨 Frontend Projects & Components
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Habit Tracker React](https://github.com/Hridaykp/Habbit_Tracker_React)** | Build and track daily habits with visual analytics | React · Modern UI |
-| **[React Todo List](https://github.com/Hridaykp/React-Todo-List)** | Feature-rich todo app with persistence | React · LocalStorage |
-| **[Task Board DnD](https://github.com/Hridaykp/Task_Board_DnD)** | Interactive Kanban board with drag-and-drop | React · Drag & Drop |
-| **[Tooltip React](https://github.com/Hridaykp/Tooltip_React)** | Reusable tooltip component library | React |
-| **[Portfolio](https://github.com/Hridaykp/my_pfolio)** | Personal portfolio showcasing projects | React · Modern Design |
+| **[Habit Tracker](https://github.com/Hridaykp/Habbit_Tracker_React)** | Build and track daily habits with visual progress analytics and insights | React · Next.js |
+| **[React Todo List](https://github.com/Hridaykp/React-Todo-List)** | Feature-rich todo app with persistent storage and clean UI | React · Next.js |
+| **[Task Board Kanban](https://github.com/Hridaykp/Task_Board_DnD)** | Interactive drag-and-drop Kanban board for task management | React · Next.js |
+| **[Tooltip Component](https://github.com/Hridaykp/Tooltip_React)** | Reusable tooltip component library for UI development | React · Next.js |
+| **[Portfolio](https://github.com/Hridaykp/my_pfolio)** | Personal portfolio showcasing projects and skills | React · Next.js |
 
 ### 🔧 Utility & Learning Projects
 
 | Project | Description |
 |---------|-------------|
-| **[E-commerce API](https://github.com/Hridaykp/E-commerce-API)** | RESTful API for e-commerce backend |
-| **[Meal App](https://github.com/Hridaykp/Meal_App)** | Recipe discovery app using external APIs |
-| **[Movie App](https://github.com/Hridaykp/movie-app)** | Movie database browser with filtering |
-| **[Chat Box](https://github.com/Hridaykp/chat_box)** | Real-time messaging interface |
-| **[CSV Upload](https://github.com/Hridaykp/CSV_upload)** | Data import and processing tool |
+| **[E-commerce API](https://github.com/Hridaykp/E-commerce-API)** | RESTful API backend for e-commerce with product management |
+| **[Meal Discovery App](https://github.com/Hridaykp/Meal_App)** | Recipe discovery platform with filtering and external API integration |
+| **[Movie Browser](https://github.com/Hridaykp/movie-app)** | Movie database application with search and filtering capabilities |
+| **[Chat Box](https://github.com/Hridaykp/chat_box)** | Real-time messaging interface and chat application |
+| **[CSV Upload Tool](https://github.com/Hridaykp/CSV_upload)** | Data import and processing utility for spreadsheet handling |
 
 ---
 
@@ -102,7 +107,7 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-im_BUG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/im_BUG/)
 
 I maintain a strong focus on **Data Structures & Algorithms**:
-- 📊 **[LeetCode Collection](https://github.com/Hridaykp/LeetCode)** — Curated solutions in Java covering arrays, graphs, trees, DP, and more
+- 📊 **[LeetCode Collection](https://github.com/Hridaykp/LeetCode)** — Curated solutions in Java covering arrays, graphs, trees, dynamic programming, and more
 - 🎓 **Daily Practice** — Consistent problem-solving to strengthen algorithmic thinking
 - 🏆 **Interview Prep** — Ready to tackle complex technical challenges
 - 🤝 **Collaboration** — Open to studying and solving problems together
@@ -113,9 +118,9 @@ I maintain a strong focus on **Data Structures & Algorithms**:
 
 <div align="center">
 
-![Hriday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=tokyonight&count_private=true)
+[![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)](https://github.com/hridaykp)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/hridaykp)
 
 </div>
 
@@ -123,10 +128,10 @@ I maintain a strong focus on **Data Structures & Algorithms**:
 
 ## 🎯 Current Focus
 
-- 🚀 **Building ResuForgeAI** — Productionizing AI-powered career tools
-- 🔐 **Backend Excellence** — Hardening APIs with robust auth, validation, and documentation
-- 🤖 **AI/LLM Integration** — Exploring advanced language model implementations
-- 📈 **Algorithmic Growth** — Daily LeetCode practice and mastery
+- 🚀 **Building ResuForgeAI** — Productionizing AI-powered career tools with advanced LLM features
+- 🔐 **Backend Excellence** — Hardening APIs with robust authentication, validation, and documentation
+- 🤖 **AI/LLM Integration** — Exploring advanced language model implementations and use cases
+- 📈 **Algorithmic Growth** — Daily LeetCode practice and mastery of core data structures
 - 🌍 **Open Source** — Contributing to and building tools for the developer community
 - 📚 **Knowledge Sharing** — Mentoring and collaborating with other developers
 
