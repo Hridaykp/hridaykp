@@ -128,16 +128,16 @@ I maintain a strong focus on **Data Structures & Algorithms**:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/im_BUG?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/im_BUG/)
 
 </div>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=86400" width="48%" />
+<img src="https://YOUR-OWN-STATS-DOMAIN/api?username=hridaykp&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" width="48%" />
+<img src="https://YOUR-OWN-STATS-DOMAIN/api/top-langs/?username=hridaykp&layout=compact&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="48%" />
 
 </div>
+
 
 
 
