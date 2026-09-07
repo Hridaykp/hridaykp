@@ -70,7 +70,7 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 |---------|-------------|-----------|--------|
 | **[ResuForgeAI](https://github.com/Hridaykp/resuforge-ai)** | AI-powered resume analyzer with ATS scoring, real-time feedback, and job-aware suggestions | FastAPI · Next.js · Docker · LLM | 🚀 Active |
 | **[Secure Product API](https://github.com/Hridaykp/secure-product-api)** | Production-grade REST API with JWT authentication, comprehensive validation, and API documentation | FastAPI · PostgreSQL · MongoDB | 📦 Complete |
-| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social collaboration platform for code sharing, real-time discussions, and team projects | React · Next.js · Node.js · Express | 💬 Active |
+| **[Codial](https://github.com/Hridaykp/Codial)** | Developer-focused social media platform with real-time chat, posts, comments, likes, and multiple auth strategies | Node.js · Express · EJS · SCSS · Socket.io · MongoDB | 💬 Active |
 
 ### 💻 Full Stack Applications
 
