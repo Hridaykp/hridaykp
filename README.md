@@ -84,11 +84,11 @@ Currently exploring the intersection of **AI/LLMs and developer productivity**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Habit Tracker](https://github.com/Hridaykp/Habbit_Tracker_React)** | Build and track daily habits with visual progress analytics and insights | React · Next.js |
-| **[React Todo List](https://github.com/Hridaykp/React-Todo-List)** | Feature-rich todo app with persistent storage and clean UI | React · Next.js |
-| **[Task Board Kanban](https://github.com/Hridaykp/Task_Board_DnD)** | Interactive drag-and-drop Kanban board for task management | React · Next.js |
-| **[Tooltip Component](https://github.com/Hridaykp/Tooltip_React)** | Reusable tooltip component library for UI development | React · Next.js |
-| **[Portfolio](https://github.com/Hridaykp/my_pfolio)** | Personal portfolio showcasing projects and skills | React · Next.js |
+| **[Habit Tracker](https://github.com/Hridaykp/Habbit_Tracker_React)** | Build and track daily habits with visual progress analytics and Redux state management | React · Redux · Bootstrap |
+| **[React Todo List](https://github.com/Hridaykp/React-Todo-List)** | Feature-rich todo app with FontAwesome icons and Bootstrap styling | React · Bootstrap · FontAwesome |
+| **[Task Board Kanban](https://github.com/Hridaykp/Task_Board_DnD)** | Full-stack drag-and-drop Kanban board with JWT auth and persistent task storage | React · SCSS · Node.js · Express · MongoDB |
+| **[Tooltip Component](https://github.com/Hridaykp/Tooltip_React)** | Reusable tooltip component with positional rendering (top, bottom, left, right) | React · CSS |
+| **[Portfolio](https://github.com/Hridaykp/my_pfolio)** | Personal portfolio with React Router navigation and React Icons | React · React Router · React Icons |
 
 ### 🔧 Utility & Learning Projects
 
